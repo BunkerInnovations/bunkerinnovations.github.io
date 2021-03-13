@@ -3,6 +3,7 @@ body
     background-color: #2E3440;
     font-family: Monospace;
     text-align: center;
+    color: #E5E9F0;
 }
 
 /* Links styling */
@@ -52,8 +53,11 @@ body
 
 .text
 {
-
+    margin-top: 150;
+    display: block;
+    font-size: 1.2em;
 }
+
 /* Unordered lists */
 ul
 {
