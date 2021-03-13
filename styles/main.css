@@ -1,0 +1,59 @@
+body
+{
+    background-color: #2E3440;
+    font-family: Monospace;
+    text-align: center;
+    color: #E5E9F0;
+}
+
+/* Links styling */
+
+.top_links
+{
+    overflow: hidden;
+    align-content: center;
+    text-align: center;
+    margin-top: 40;
+    font-size: 1.4em;
+}
+
+.top_links a
+{
+    display: inline-block;
+    color: #5E81AC;
+    text-decoration: none;
+    font-weight: bold;
+    padding-right: 30;
+    font-opacity: 0.8;
+    transition: all 0.2s ease-in-out;
+
+
+}
+
+
+.top_links a:hover
+{
+    color:#88C0D0;
+
+
+}
+
+
+/* Title */
+
+.title
+{
+    color: #E5E9F0;
+    font-weight: 800;
+    font-size: 2.2em;
+}
+
+
+/* Text */
+
+.text
+{
+    margin-top: 200;
+    display: block;
+    font-size: 1.2em;
+}
