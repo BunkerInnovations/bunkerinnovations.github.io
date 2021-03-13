@@ -3,7 +3,6 @@ body
     background-color: #2E3440;
     font-family: Monospace;
     text-align: center;
-    color: #E5E9F0;
 }
 
 /* Links styling */
@@ -53,7 +52,24 @@ body
 
 .text
 {
-    margin-top: 200;
+
+}
+/* Unordered lists */
+ul
+{
+    list-style-type: none;
+    overflow: hidden;
+    align-content: center;
+    text-align: center;
+    margin-top: 40;
+    font-size: 1.2em;
+    padding-right: 50;
+}
+
+li a
+{
+    color: #E5E9F0;
     display: block;
     font-size: 1.2em;
+    text-decoration: none;
 }
